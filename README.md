@@ -2,7 +2,7 @@
 
 **Histore** is an eCommerce web application built with the MERN stack (MongoDB, Express, React, Node.js) designed to provide a smooth shopping experience. Users can browse products, manage their accounts, and make secure purchases using the Stripe payment system.
 
-**LIVE LINK** ()
+**LIVE LINK** (https://historeweb.netlify.app/)
 
 ---
 
